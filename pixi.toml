@@ -1,0 +1,15 @@
+[workspace]
+authors = ["chequb4000@yahoo.com <emmanuel.ossai@example.com>"]
+channels = ["conda-forge"]
+name = "BINF-5507-Materials"
+platforms = ["osx-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+matplotlib = ">=3.10.3,<4"
+seaborn = ">=0.13.2,<0.14"
+ipykernel = ">=6.29.5,<7"
+scikit-learn = ">=1.6.1,<2"
+python = ">=3.12.10,<3.13"
