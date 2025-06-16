@@ -1,0 +1,1 @@
+For this assignment, the Heart Disease Dataset from the UCI Machine Learning Repository will be used to: Train and evaluate linear regression models to predict cholesterol levels (column name = chol); Train and evaluate logistic regression and k-NN classifiers to predict heart disease presence as a binary classification task (column name = num).
